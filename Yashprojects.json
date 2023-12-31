@@ -1,0 +1,155 @@
+[
+  {
+    "name": "JavaScript Projects",
+    "desc": "Built Gist of JavaScript projects HTML/CSS and Mern Stack which includes Games and ToDo list",
+    "image": "JSProjects.png",
+    "category": "Frontend",
+    "links": {
+      "view": "https://neuyash.github.io/JavaScript-Projects/",
+      "code": "https://github.com/NeuYash/JavaScript-Projects"
+    }
+  }, 
+    {
+        "name": "StockHub",
+        "desc": "Built Asset Management system for organisation with Mern Stack and J2ee FullStack. ID:Maya pass: qwerty123",
+        "image": "AssetMgmt.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://asset-management-ui.web.app/",
+          "code": "https://github.com/NeuYash/StockHub"
+        }
+    },
+    {
+        "name": "BasicPortfolio",
+        "desc": "First Attempt to build a Portfolio page with basic HTML CSS.",
+        "image": "basicportfolio.png",
+        "category": "Frontend",
+        "links": {
+          "view": "https://neuyash.github.io/BasicPortfolio/",
+          "code": "https://github.com/NeuYash/BasicPortfolio"
+        }
+    },
+    {
+        "name": "FreshHarvests",
+        "desc": "Online Fresh Grocery Item Store with 500+ items. Created with MERN Stack and Atlas Cloud database",
+        "image": "FreshHarvests.png",
+        "category": "Frontend",
+        "links": {
+          "view": "https://github.com/RajatSharmaNEU/FreshHarvests",
+          "code": "https://github.com/RajatSharmaNEU/FreshHarvests"
+        }
+    },
+    {
+      "name": "Orphanage_Management",
+      "desc": "Coordinated with orphanages, police stations, hospitals, and finance organizations to support orphanages and provide essential resources for orphans.",
+      "image": "omgmt.png",
+      "category": "FullStack",
+      "links": {
+        "view": "https://github.com/NeuYash/Orphanage_Management",
+        "code": "https://github.com/Chakradhar-Grandhi/Orphanage_Mgmt"
+      }
+    },
+    {
+        "name": "TaskPulse",
+        "desc": "Developed an automated Task-Tracker tool that monitors and analyzes Employee tasks and presents an efficiency report",
+        "image": "cmsoon.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/TaskPulse",
+          "code": "https://github.com/NeuYash/TaskPulse"
+        }
+    },
+    {
+        "name": "JourneyGenius",
+        "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
+        "image": "lapy.jpg",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/PSAProject",
+          "code": "https://github.com/NeuYash/PSAProject"
+        }
+    },
+    {
+        "name": "Disaster Tweet Predictor",
+        "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
+        "image": "tweetpredictor.jpeg",
+        "category": "Python",
+        "links": {
+          "view": "https://github.com/NeuYash/Disaster_Tweet_Predictor",
+          "code": "https://github.com/NeuYash/Disaster_Tweet_Predictor"
+        }
+    },
+    {
+        "name": "DataScience AI/ML",
+        "desc": "Gist of AI/ML practices with various regression and visualization libraries. Use of PowerBI to analyze data.",
+        "image": "dsaiml.png",
+        "category": "Python",
+        "links": {
+          "view": "https://github.com/NeuYash/DataScience-AI-ML",
+          "code": "https://github.com/NeuYash/DataScience-AI-ML"
+        }
+    },
+    {
+        "name": "Java-Thymleaf",
+        "desc": "CRUD operation using Thymleaf and ava Spring Boot",
+        "image": "javathymleaf.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Java_Thymleaf",
+          "code": "https://github.com/NeuYash/Java_Thymleaf"
+        }
+    },
+    {
+        "name": "E-Learning",
+        "desc": "Education platform for students with active tests, involves FullStack technologies, Encription algorithms and AWS S3 cloud storage",
+        "image": "eLearning.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/E-Learning_System",
+          "code": "https://github.com/NeuYash/E-Learning_System"
+        }
+    },
+    {
+        "name": "HealthSure",
+        "desc": "This application is created with Java Swing to cater Health Industry of any given city. Provides Interconnection between 4 interconnected organisations",
+        "image": "healthsure.webp",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Healthcare_Management",
+          "code": "https://github.com/NeuYash/Healthcare_Management"
+        }
+    },
+    {
+        "name": "EmployeeManagement",
+        "desc": "This Java SpringBoot application enables Employee CRUD operations through REST APIs, with integrated Swagger.io for improved UI functionality.",
+        
+        "image": "empmgmt.png",
+        "category": "Backend",
+        "links": {
+          "view": "https://github.com/NeuYash/EmployeeManagement_SpringBoot",
+          "code": "https://github.com/NeuYash/EmployeeManagement_SpringBoot"
+        }
+    },
+    {
+      "name": "Sociable",
+      "desc": "Created a Tinder replica with advanced search filters and location-based matching. Integrated Twitter API for data retrieval. Developed using MySql Server.",
+      
+      "image": "sociable.png",
+      "category": "Backend",
+      "links": {
+        "view": "",
+        "code": "https://github.com/NeuYash/Sociable"
+      }
+  },
+  {
+    "name": "MBTA Live Visualization",
+    "desc": "A live Tramp visualization website that shows closest train arrival time to your desired tramp station.",
+    
+    "image": "MBTA.png",
+    "category": "Python",
+    "links": {
+      "view": "https://mbta-live-next.vercel.app/",
+      "code": "https://github.com/NeuYash/MBTA-Live-Visualization"
+    }
+}
+]

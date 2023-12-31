@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Cyber Tip-Off System",
+    "desc": "Developed an web-app crime-reporting platform that allows anonymous tips submission to nearest police authorities which helps to mitigate crime rates.",
+    "image": "CyberTipOffDashboard.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://neuyash.github.io/JavaScript-Projects/",
+      "code": "https://github.com/guptashubham95a/cyber-admin"
+    }
+  },
+  {
+    "name": "College Feedback System",
+    "desc": "Pioneered a feedback system for college empowering management to seamlessly collect feedback which responses were amplified by 150% within a semester, facilitating resolution of critical issues for faculty.",
+    "image": "FeedbackOutput.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://asset-management-ui.web.app/",
+      "code": "https://github.com/NeuYash/StockHub"
+    }
+  },
+  {
+    "name": "Covid-19 Tracker",
+    "desc": "Devised website which tracks the impact of COVID-19 in India and across Globe utilizing Open Disease API and implemented various features.",
+    "image": "Covid19Output.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://covid-19-tracker-3ceab.web.app/",
+      "code": "https://github.com/guptashubham95a/COVID-19-TRACKER"
+    }
+  },
+  {
+    "name": "FlutterCab",
+    "desc": "Developed a robust Uber clone app using Flutter, Firebase, etc. Integrated features include Geolocation, Search, Real-time Notifications, and more...",
+    "image": "UberAppOutput.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://github.com/guptashubham95a/uber-rider-app",
+      "code": "https://github.com/guptashubham95a/uber-rider-app"
+    }
+  },
+  {
+    "name": "SocialFlow",
+    "desc": "Created a feature-rich clone using Flutter, Authentication, Firestore, etc. Integrated features include push notifications, feeds, and user actions...",
+    "image": "InstaCloneOutput.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://github.com/guptashubham95a/instagram-clone",
+      "code": "https://github.com/guptashubham95a/instagram-clone"
+    }
+  },
+
+  {
+    "name": "Todo Pulse",
+    "desc": "Developed an Task-Tracker tool that monitors and analyzes Employee tasks and todo list",
+    "image": "cmsoon.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://github.com/guptashubham95a/Todo_App",
+      "code": "https://github.com/guptashubham95a/Todo_App"
+    }
+  },
+  {
+    "name": "JourneyShort",
+    "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
+    "image": "lapy.jpg",
+    "category": "FullStack",
+    "links": {
+      "view": "https://github.com/guptashubham95a/",
+      "code": "https://github.com/guptashubham95a/"
+    }
+  },
+
+  {
+    "name": "DataScience AI/ML",
+    "desc": "Gist of AI/ML practices with various regression and visualization libraries. Used PowerBI to analyze data.",
+    "image": "dsaiml.png",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/guptashubham95a/",
+      "code": "https://github.com/guptashubham95a/"
+    }
+  },
+  {
+    "name": "DataStore",
+    "desc": "CRUD operation using React and MongoDb. Also, added authentication support to verify the users.",
+    "image": "javathymleaf.png",
+    "category": "FullStack",
+    "links": {
+      "view": "https://github.com/guptashubham95a/",
+      "code": "https://github.com/guptashubham95a/"
+    }
+  }
+]
